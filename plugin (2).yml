@@ -1,0 +1,8 @@
+name: GuideUI
+version: 1
+main: iQuackerzMC\GuideUI\Main
+api: 3.0.0
+author: iQuackerzMC
+commands:
+ guide:
+  description: "Opens guide menu"
