@@ -5,4 +5,4 @@ api: 3.0.0
 author: iQuackerzMC
 commands:
  guide:
-  description: "Opens guide menu"
+  description: "Access the guide menu"
